@@ -3,7 +3,7 @@
 UCLA Spring 19 CS32 Project 4
 
 
-*For archive purposes only. Please refrain from copying any content in these files file under any circumstance - it is not respectful and it is not even guaranteed to work.
+*For archive purposes only. Please refrain from copying any content in these files file under any circumstance - it is not respectful and this code is not guaranteed to work.
 
 *Feel free to read through the codes though, if that may help you in any way.
 
